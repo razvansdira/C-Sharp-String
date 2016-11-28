@@ -9,7 +9,7 @@ namespace C_Sharp_String
 {
     class Exercise27
     {
-        static void Mai(string[] args)
+        static void Main(string[] args)
         {
             String a = "change";
             String b = "euro";
